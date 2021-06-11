@@ -1,4 +1,3 @@
-import json, requests
 import time
 import re
 from selenium import webdriver
